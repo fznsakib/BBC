@@ -1,0 +1,10 @@
+array (
+  'query' => 
+  array (
+    'name' => 'blob',
+    'type' => 'audio/wav',
+    'tmp_name' => '/private/var/tmp/phpC124CP',
+    'error' => 0,
+    'size' => 26155,
+  ),
+)

@@ -1,0 +1,50 @@
+#bbbc {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index:9999;
+    width: 100vw;
+    height: 100%;
+}
+
+#bbbc .wrapper {
+    margin: 100px 0;
+    background: #f1f1f1;
+    padding: 20px;
+}
+
+#bbbc h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#bbbc img {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+#bbbc p {
+    padding: 20px;
+    font-size: 16px;
+}
+
+#bbbc .left, #bbbc .right, #bbbc .wrapper {
+    float: left;
+}
+
+#bbbc .left, #bbbc .right {
+    width: calc(25% - 85px);
+    padding: 300px 30px;
+}
+
+#bbbc .wrapper {
+    width: 50%;
+}
+
+.js-subtitles {
+    font-size: 24px !important;
+    overflow: hidden;
+    padding: 0 50px !important;
+}

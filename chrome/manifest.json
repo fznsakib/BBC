@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+
+  "name": "Better BBC",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.bbc.co.uk/*", "http://www.bbc.co.uk/*"],
+      "js": ["jquery.min.js", "jquery.marquee.min.js", "content.js"],
+      "css" : ["app.css"]
+    }
+  ],
+
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}

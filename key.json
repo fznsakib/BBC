@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "better-bbc",
+  "private_key_id": "b031285b7a4ed35f004f951e16691de7a583d5fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC99yrTkIfFsCLU\nxo7NhZlV3gBJpXnTnair6AzQ5TtR2oa/fZq1qAr3h93pw0fHO0maVZ0z+ZVdEhV7\nmUFZbxXfaUQaZAL8mutA7bx3fTE40+wwBeITZSvIvM5edZbdQQm98pJvm9dsgiVm\nnLCfLrQMjsLCkOxYAOySWZj3tJUS2Xs4zevhUa0o59CUliiG9vN1/o47m02OnjM2\nLscxHDQRMDJHqmvtL8pfRAEGFYFnhclmYL7FLyuVV9pG+Do/SUFZWB8kDjHcONAc\ntWdEZYRkzuUaQrlu+HVhksNH9HxCcKaYu/uYAjnBXpO/oUeEORnxwc2+HletiQy2\nNvLObztlAgMBAAECggEABbD/j/ofDz2xNXXDdoXfq7JsiMhT55KsKIZZx/JuPgwR\niHAvb+zac0MXU3cd0erFUEHrZVC/eFvf1+WmDxNkcN6bAz1m14GetcHJqTzPejfj\nNice+FzKHIgHmM3mGLfnnlDDsWNWZ3JYw4PDSOmhzFSEokasRhC1Bcd4bUd0Re2/\n3K8tj9ZVo/jvqvHrhkZOGgDI/vIDfjCSUcrIHFj9qu+3ZYPWE2Fgq/XeycDKAD7e\n6a+vImeLOygOWdCSDcdh3Ic/0nl5ZHEqsqUpzdDHXffzkE3gYWeS97D4GPkyJJFQ\nQ+gWXYg1V3O5HEHr2Ur59HEWFIidJ2pCkX+Ms5TGSwKBgQDyj1AYwDMyG5TIxcMO\nLrWq7sD++oR5s0Il+C4XrXMS+IQgvLNs7Mu5NsrDJWXBLbZwiSZyFX06PE1WBqPF\nkiq7lWRS6eyXTZDeJbVn91r7H6GAW3haR2OWhTKaulTIJQjJrpK5nLfRWG3FyInl\nUURYraCQm9vN+5iCBVknNZzCbwKBgQDIfc8mPoh7ZzYAt7xrvccRmS6yS9gfg/84\namI42id3BqE0IN7t5MGsM0okcAdVLgb/nK1h/eZFvgw16Pxmz3uHquexJOftnq9b\nytHIzhsiwn7gYHgDVLLf3oj+pMsKIYSy1rBLnTZYjEPZHXvka5BD6r/XrtlMFkcd\nqPaKlfT5awKBgQCmEpdtitLCoP26hSSqpjJ+CSAcs9tWE/TbWFP+pCQgvgSBAZH7\npxlJA4nKGOXVYP4DiPPIsovd/oGYv80LrasSahOZbU4uvc3NO5Y7y7EANUT3RClf\n7nbyDNp7882uhyTAKYWODg4RCHGINGitmHmqGZ7Qw9W372YYx56l6OAegwKBgAv6\nEATd2XNdwAkc8MGS7bBscTCvfTKsxPNOz51L0u22VKzzhb26W6N40OYKVzXMcRiV\n+HmRHE9wQfR6fZF6tYtuNzcK2FwGjb0zCYMwZMiXy9KFkMXKKoFbHt3vZD2vsOiq\nEJADzTpO7sKqkzsa/dxAysMMq+hysD7iWBABU0gPAoGBAMsOGSTmZZAOZOWqc+5A\nXuhZnQdP3fCmcQXZ8rRjXHFgzFhi3kss07Xoua/CVA7hgk4cOc9vPn18MbCEXE89\nfMH7hqoDXIBUxbyV5EOxAcuqy9+JYTYFGtCjLPYiNGOzmGwKCewZSXW1Gd8Wd25G\nq2W0ONZmrjnotJm6q1D9V/g0\n-----END PRIVATE KEY-----\n",
+  "client_email": "better-bbc@appspot.gserviceaccount.com",
+  "client_id": "109735082962915469929",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/better-bbc%40appspot.gserviceaccount.com"
+}
